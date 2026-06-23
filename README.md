@@ -33,24 +33,22 @@ A responsive web-based **Student Management System** developed using **HTML, CSS
 
 ---
 
-## Screenshots
-
-### Dashboard
+## Dashboard
 ![Dashboard](Screenshots/dashboard.png)
 
-### Student Records
+## Student Records
 ![Student Records](Screenshots/student-records.png)
 
-### Search Functionality
+## Search Functionality
 ![Search Functionality](Screenshots/search-functionality.png)
 
-### Duplicate ID Validation
+## Duplicate ID Validation
 ![Duplicate ID Validation](Screenshots/duplicate-id-validation.png)
 
-### Database Creation & Insert Operation
+## Database Creation & Insert Operation
 ![Database Creation](Screenshots/Database-Creation-and-Insert.png)
 
-### SQL CRUD Operations
+## SQL CRUD Operations
 ![CRUD Operations](Screenshots/CRUD-Operations.png)
 
 ## Database Schema
