@@ -27,19 +27,19 @@ A responsive web-based Student Management System developed using HTML, CSS, and 
 
 ### Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
-
-### Search Functionality
-
-![Search Functionality](Screenshots/search-functionality.png)
-
-### Duplicate ID Validation
-
-![Duplicate ID Validation](Screenshots/duplicate-id-validation.png)
+![Dashboard](Screenshots/dashboard.png.png)
 
 ### Student Records
 
 ![Student Records](Screenshots/student-records.png)
+
+### Search Functionality
+
+![Search Functionality](Screenshots/search-functionality.png.png)
+
+### Duplicate ID Validation
+
+![Duplicate ID Validation](Screenshots/duplicate-id-validation.png.png)
 
 ## Project Structure
 
