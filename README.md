@@ -52,6 +52,7 @@ A responsive web-based **Student Management System** developed using **HTML, CSS
 
 ### SQL CRUD Operations
 ![CRUD Operations](Screenshots/CRUD-Operations.png)
+
 ## Database Schema
 
 ```sql
