@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Management System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<h1>Student Management System</h1>
+
+<div class="card">
+<input id="name" placeholder="Student Name">
+<input id="sid" placeholder="Student ID">
+<input id="course" placeholder="Course">
+<button onclick="addStudent()">Add Student</button>
+</div>
+
+<div class="card">
+<input id="search" placeholder="Search..." onkeyup="renderStudents()">
+</div>
+
+<div class="stats">
+<div class="card">Total Students: <span id="count">0</span></div>
+</div>
+
+<table>
+<thead>
+<tr><th>Name</th><th>ID</th><th>Course</th><th>Actions</th></tr>
+</thead>
+<tbody id="studentTable"></tbody>
+</table>
+</div>
+<script src="script.js"></script>
+<footer>
+   <p>Developed by Vivek C Raj</p>
+</footer>
+</body>
+</html>
